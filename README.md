@@ -1,5 +1,6 @@
 # MongoDbSupplyCollector
-revisor:10
+revisor:11
+
 A supply collector designed to connect to MongoDB
 
 The Docker command to launch a MongoDB container is:
