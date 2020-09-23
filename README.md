@@ -1,5 +1,5 @@
 # MongoDbSupplyCollector
-revisor:21
+revisor:22
 
 A supply collector designed to connect to MongoDB
 
